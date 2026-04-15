@@ -1,4 +1,4 @@
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.PNG";
 import profile from "../assets/profile.png";
 import { useDispatch, useSelector } from "react-redux";
 import axios from "axios";
