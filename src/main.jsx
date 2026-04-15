@@ -13,7 +13,7 @@ import Workout from "./components/Workout";
 import WorkoutHistory from "./components/WorkoutHistory";
 import CustomExercises from "./components/CustomExercises";
 import Password from "./components/Password";
-import SignUp from "./components/Signup";
+import SignUp from "./components/SignUp";
 
 const router = createBrowserRouter([
   {
