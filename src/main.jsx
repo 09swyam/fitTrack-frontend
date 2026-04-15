@@ -9,7 +9,7 @@ import appStore from "./utils/appStore.js";
 import { Provider } from "react-redux";
 import Profile from "./components/Profile.jsx";
 import Calorie from "./components/Calorie.jsx";
-import Workout from "./components/workout";
+import Workout from "./components/Workout";
 import WorkoutHistory from "./components/WorkoutHistory";
 import CustomExercises from "./components/CustomExercises";
 import Password from "./components/Password";
